@@ -1,0 +1,22 @@
+.lenguaje {
+    border: 2px solid #f33f3f;
+    background-color: #f33f3f;
+    padding: 20px;
+    border-radius: 8px;
+    font-family: Arial, sans-serif;
+    width: 80%;
+    margin: 20px auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .lenguaje h2 {
+    color: #333;
+    font-size: 1.5em;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  
+  .lenguaje p {
+    font-size: 1em;
+    color: #333;
+  }
