@@ -43,5 +43,9 @@
     font-size: 1em;
     color: #333;
   }
+
+  .container{
+    padding: 15px;
+  }
   
 
